@@ -1,0 +1,61 @@
+
+
+head {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    margin-right:10px;
+    background-color: #333;
+}
+
+body {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    margin-right:10px;
+    background-color: #333;
+}
+
+#main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin-top: 500px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    margin-right:10px;
+    color: aliceblue;
+    border: 300px;
+
+}
+
+#introtext {
+    padding-left: 40px;
+}
+
+#buttonbar {
+    display: flex;
+    justify-content: space-around;
+    color:aliceblue;
+}
+
+button {
+    padding: 10px;
+    background-color: #333;
+    border: none;
+    color:aliceblue;
+    font-size: 20px;
+}
+
+#profilepic img {
+    width: 200px;
+    height: 200px;
+    flex-basis: 40%;
+}
+
+#utoob {
+    padding-top: 500px;
+
+}
